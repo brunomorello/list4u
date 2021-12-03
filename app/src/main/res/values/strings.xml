@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">List4U</string>
+    <string name="home_title">Your Shooping Lists</string>
+    <string name="home_subtitle">Personal Organizer</string>
 </resources>

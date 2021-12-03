@@ -1,6 +1,8 @@
 package br.com.bmo.mob.list4u.ui.activity;
 
 import androidx.appcompat.app.AppCompatActivity;
+import androidx.core.view.ViewCompat;
+import androidx.core.view.WindowCompat;
 
 import android.os.Bundle;
 
